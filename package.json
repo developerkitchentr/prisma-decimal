@@ -1,8 +1,9 @@
 {
   "name": "prisma-decimal",
-  "version": "1.1.1",
+  "version": "1.1.7",
   "description": "Decimal convertor of PrismaClient",
-  "main": "index.ts",
+   "main": "lib/index.js",
+   "types": "lib/index.d.ts",
   "scripts": {
     "version" : "npm run format && git add -A src",
     "postversion" : "git push && git push --tags",

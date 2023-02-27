@@ -1,5 +1,12 @@
 ## Prisma Decimal Convertor
 
+``` bash
+
+npm i prisma-decimal
+//or
+yarn add prisma-decimal
+
+```
 
 ``` typescript
 
